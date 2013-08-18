@@ -18,7 +18,7 @@ This is a course I am developing for under-graduate students at [Nottingham Tren
 
  * [101 - Basics of Hacking](101/index.html)
  * [201 - Applied Hacking](201/index.html)
- * [301 - Becoming a Wizzard ^1](301/index.html)
+ * [301 - Becoming a Wizzard](301/index.html) ^1
 
 ## Overview
 
@@ -58,5 +58,7 @@ You will learn how to:
  * Some exposure to programming concepts and/or languages
 
 <hr>
- 
- [1]: But only on Roundworld (thanks to Terry Pratchett).
+
+## Notes
+
+[1]: But only on Roundworld (thanks to Terry Pratchett).
