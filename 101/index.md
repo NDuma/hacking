@@ -43,7 +43,7 @@ Many of the unknowns attending the conference have since become some of the most
 
 In those days - before the public Internet - communication was done using telephone modems dialling into bulletin board services (BBS) where users could send and receive messages to other users of that BBS much like today's internal company email. Many BBSes allowed upload and download of files for sharing. Calls to BBSs were charged per-minute by the telephone company so the low transmission rates and poor connection quality could lead to large telephone bills especially if the BBS wasn't local or even in the same country.
 
-Networks of BBSs developed the largest of which was [FidoNET](http://en.wikipedia.org/wiki/FidoNet). Created by two hackers in San Francisco and Baltimore) it allowed a subscriber to dial into a local BBS and exchange messages with subscribers of other BBSs around the world. The services were all text - including the Fido dog logo:
+Networks of BBSs developed the largest of which was [FidoNET](http://en.wikipedia.org/wiki/FidoNet). Created by two hackers, Tom Jennings in San Francisco and John Madil in Baltimore, it allowed a subscriber to dial into a local BBS and exchange messages with subscribers of other BBSs around the world. The services were all text - including the Fido dog logo:
 ```
                   __
                   /  \
