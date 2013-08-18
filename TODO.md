@@ -1,7 +1,7 @@
 # TODO
 
 ## History
- 1. Background research on [2600: The Hacker Quarterly](http://www.2600.com/)
+ 1. Background research on [2600: The Hacker Quarterly](http://www.2600.com/) and Usenet news-group [alt.2600 FAQ](http://project.cyberpunk.ru/idb/alt.2600_faq.html)
 
 ## Open Source
 
