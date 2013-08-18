@@ -18,13 +18,14 @@ This is a course I am developing for under-graduate students at [Nottingham Tren
 
  * [101 - Basics of Hacking](101/index.html)
  * [201 - Applied Hacking](201/index.html)
- * [301 - Becoming a Wizzard](301/index.html) ^1
+ * [301 - Becoming a Wizzard](301/index.html) [^1]
+ * [Assignments](assignments/index.html)
 
 ## Overview
 
 I hope you choose *Hacking* because you are excited by the prospect of taking things apart, figuring out how they work, and improving them. If you have experienced the feeling of frustration when some device or software application lacks functionality that you require or desire and the developers are not interested in providing it then *Hacking* is going to introduce you to the ethos, culture, mind-set, tools and techniques that'll equip you to hack software and tweak hardware.
 
-Coursework will include hacking on active open-source projects and contributing real and valuable contributions back to the community of developers and application users world-wide for the benefit of all.
+Coursework will include studying local and network applications and involve hacking on active open-source projects. You will be contributing real and valuable contributions back to the community of developers and application users world-wide for the benefit of all.
 
 You will take away an enduring sense of empowerment to extend and fix the applications that are important to you combined with the know-how, confidence and skills to make a difference. It may well inspire you into entrepreneurship.
 
@@ -41,6 +42,7 @@ You will learn how to:
  * make intuitive inferences from small clues
  * use POSIX/UNIX/Linux command-line tools
  * perform basic debugging
+ * analyse network traffic
  * recognise and manage bugs using bug trackers
  * use distributed version control systems
  * develop patches for real bugs
@@ -59,6 +61,6 @@ You will learn how to:
 
 <hr>
 
-## Notes
+## References
 
-[1]: But only on Roundworld (thanks to Terry Pratchett).
+1. [But only on Roundworld (thanks to Terry Pratchett)](http://wiki.lspace.org/mediawiki/index.php/Roundworld)
