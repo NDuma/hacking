@@ -8,7 +8,10 @@
 import markdown
 import os, sys
 import re, StringIO
+from collections import deque
 
+def footnote_format(mo):
+  return '<a href="#fn_' + mo.group(1) + '"><sup>' + mo.group(1) + '</sup></a>'
 
 extensions = list(line.rstrip('\n') for line in open("markdown-extensions.txt"))
 
@@ -25,6 +28,30 @@ output_html.write("""
 
 output_body = output_html.getvalue()
 output_html.close()
+
+# convert into a list of lines and add element.id anchors footnotes
+body = deque([])
+references = deque([])
+urls = deque([])
+reference_heading = None
+lines = output_body.split('\n')
+for line in lines:
+  if not reference_heading:
+    reference_heading = re.search(r"(<h.+>References</h.>)", line)
+  elif reference_heading:
+    reference = re.match(r'^<li><a href="(.*)">(.*)</a></li>', line)
+    if reference:
+      references.append(reference.group(2))
+      urls.append(reference.group(1))
+      line =  '<li id="fn_' + str(len(references)) + '"><a href="' + urls[-1] + '">' + references[-1] + '</a></li>'
+  body.append(line)
+
+# now rebuild the body whilst inserting footnote links
+output_body = ""
+# replace footnote markers '[^1]' with '<a href="#fn_1"><sup>1</sup></a>'
+for line in body:
+  line = re.sub(r"\[\^(\d+)(\])", footnote_format, line)
+  output_body += line + "\n"
 
 output_head = """<!DOCTYPE html>
 <html lang="en">
