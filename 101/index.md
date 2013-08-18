@@ -8,25 +8,25 @@
 
 ## The Hacker Ethic (what is a Hacker) ?
 
-In 1997 **Eric S. Raymond** published an essay on software engineering methods entitled "**The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**" which became the most influential observation and critique on software development. Later he included a Frequently Asked Questions answered (FAQ) titled "**How to Become a Hacker**" [1] that describes the attitude, skills and cultural of hacking:
+In 1997 **Eric S. Raymond** published an essay on software engineering methods entitled "**The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**" which became an influential observation and critique of software development. Later he included a Frequently Asked Questions answered (FAQ) titled "**How to Become a Hacker**"[^1] that describes the attitude, skills and cultural of hacking:
 
-Note: If this frame is blank and you see a shield <img style="vertical-align:middle" src="../resources/firefox-mixed-content-shield.jpg" title="Firefox blocking mixed content shield"/> in the browser address bar you must click on the shield and disable protection to allow mixed content in order to view Eric Raymond's FAQ.
+> Note: If this frame is blank and you see a shield <img style="vertical-align:middle" src="../resources/firefox-mixed-content-shield.jpg" title="Firefox blocking mixed content shield"/> in the browser address bar you must click on the shield and disable protection to allow mixed content in order to view Eric Raymond's FAQ.
 > <iframe width="80%" height="500pt" src="http://www.catb.org/~esr/faqs/hacker-howto.html#what_is" allowfullscreen></iframe>
 
 
-A summary which I cannot improve upon comes from Wikipedia [2]
+A summary which I cannot improve upon comes from Wikipedia[^2]
 
->A hacker is someone who loves to program or who enjoys playful cleverness, or a combination of the two. [3] The act of engaging in activities (such as programming or other media [4]) in a spirit of playfulness and exploration is termed hacking. However the defining characteristic of a hacker is not the activities performed themselves (e.g. programming), but the manner in which it is done: Hacking entails some form of excellence, for example exploring the limits of what is possible, [5] thereby doing something exciting and meaningful.
+>A hacker is someone who loves to program or who enjoys playful cleverness, or a combination of the two[^3]. The act of engaging in activities (such as programming or other media[^4]) in a spirit of playfulness and exploration is termed hacking. However the defining characteristic of a hacker is not the activities performed themselves (e.g. programming), but the manner in which it is done: Hacking entails some form of excellence, for example exploring the limits of what is possible[^5], thereby doing something exciting and meaningful.
 
 Richard Stallman, the founder of the *Free Software* movement explains about hackers who program:
 
->What they had in common was mainly love of excellence and programming. They wanted to make their programs that they used be as good as they could. They also wanted to make them do neat things. They wanted to be able to do something in a more exciting way than anyone believed possible and show "Look how wonderful this is. I bet you didn't believe this could be done." [6]
+>What they had in common was mainly love of excellence and programming. They wanted to make their programs that they used be as good as they could. They also wanted to make them do neat things. They wanted to be able to do something in a more exciting way than anyone believed possible and show "Look how wonderful this is. I bet you didn't believe this could be done."[^6]
 
 ## What a Hacker Is NOT!
 
 Wikipedia continues:
 
->Hackers from this subculture tend to emphatically differentiate themselves from what they pejoratively call "crackers"; those who are generally referred to by media and members of the general public using the term "hacker", and whose primary focus — be it to malign or benevolent purposes — lies in exploiting weaknesses in computer security. [7]
+>Hackers from this subculture tend to emphatically differentiate themselves from what they pejoratively call "crackers"; those who are generally referred to by media and members of the general public using the term "hacker", and whose primary focus — be it to malign or benevolent purposes — lies in exploiting weaknesses in computer security.[^7]
 
 ## Hackers - Wizards of the Electronic Age
 
@@ -44,6 +44,7 @@ Many of the unknowns attending the conference have since become some of the most
 In those days - before the public Internet - communication was done using telephone modems dialling into bulletin board services (BBS) where users could send and receive messages to other users of that BBS much like today's internal company email. Many BBSes allowed upload and download of files for sharing. Calls to BBSs were charged per-minute by the telephone company so the low transmission rates and poor connection quality could lead to large telephone bills especially if the BBS wasn't local or even in the same country.
 
 Networks of BBSs developed the largest of which was [FidoNET](http://en.wikipedia.org/wiki/FidoNet). Created by two hackers, Tom Jennings in San Francisco and John Madil in Baltimore, it allowed a subscriber to dial into a local BBS and exchange messages with subscribers of other BBSs around the world. The services were all text - including the Fido dog logo:
+<div style="float:right">
 ```
                   __
                   /  \
@@ -57,6 +58,7 @@ Networks of BBSs developed the largest of which was [FidoNET](http://en.wikipedi
  (________)     (_/(_|(____/
 (c) John Madil
 ```
+</div>
 In educational establishments the demand for sharing information and research drove the development and transformation of the USA's ARPANET into the public Internet that we take for granted today. Growing demand required more, better, and faster software to operate and manage the increasingly sophisticated networks of computer systems as they developed.
 
 At this time most computer systems came complete with not just the binary executable code but the full source-code as well. Access to the source code and build tools allowed software hackers to fix faults (bugs) and add new features to the software programs themselves. There was a culture of sharing and source-code was passed around.
@@ -76,10 +78,11 @@ In 1983 he began the GNU operating system project and in 1985 founded the **Free
 
 ## References
 
-
-[2]: http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29 "Hacker (programmer subculture)"
-[3]: http://www.gnu.org/gnu/thegnuproject.html "The GNU Project"
-[4]: http://www.gnu.org/philosophy/rms-hack.html "The Hacker Community and Ethics: An Interview with Richard M. Stallman, 2002"
-[5]: http://stallman.org/articles/on-hacking.html "On Hacking - Richard Stallman"
-[6]: http://www.handtap.com/hackers/  "Hackers - Wizards of the Electronic Age. Video/TV/DVD. 1985"
-[7]: http://catb.org/~esr/faqs/hacker-howto.html "Eric Raymond - How to Become a Hacker"
+ 1. [FAQ: How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+ 2. [Hacker (programmer subculture)](http://en.wikipedia.org/wiki/Hacker_%28programmer_subculture%29)
+ 3. [The GNU Project](http://www.gnu.org/gnu/thegnuproject.html)
+ 4. [The Hacker Community and Ethics: An Interview with Richard M. Stallman, 2002](http://www.gnu.org/philosophy/rms-hack.html)
+ 5. [On Hacking - Richard Stallman](http://stallman.org/articles/on-hacking.html)
+ 6. [Hackers - Wizards of the Electronic Age. Video/TV/DVD. 1985](http://www.handtap.com/hackers/)
+ 7. [Eric Raymond - How to Become a Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+ 
