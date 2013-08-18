@@ -13,5 +13,5 @@ REMOTE_USER=${REMOTE_USER:-iam}
 REMOTE_HOST=${REOMTE_HOST:-pella}
 REMOTE_PATH_BASE=${REMOTE_PATH_BASE:-public_html/projects/hacking/}
 
-rsync -vr --include='*.html' --include='style.css' --include='utils/' --include='101/' --include='201/' --include='301/' --exclude='*.md' --exclude='*.zip' --exclude='.git/' --exclude='*' . $REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH_BASE
+rsync -vr --include='*.html' --include='*.jpg' --include='style.css' --include='utils/' --include='101/' --include='201/' --include='301/' --include='resources/' --exclude='*.md' --exclude='*.zip' --exclude='.git/' --exclude='*' . $REMOTE_USER@$REMOTE_HOST:$REMOTE_PATH_BASE
 
