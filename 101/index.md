@@ -6,6 +6,24 @@
 
 ## Overview
 
+In this series of lectures, tutorials and laboratory sessions we are going to investigate the social origins, human drivers and technical skills required for successful and enjoyable hacking. The primary driver of most hacking is personal satisfaction - you, as an individual, should gain satisfaction in some form from hacking process and its outcomes.
+
+The skills developed as a hacker are invaluable in many areas of computer science and the wider information technology landscape. An engineer that has the ability to hack additional features onto existing tools is a valuable addition to any project or team. A hacker will ask themselves "How can I make it do more?" Non-hackers will ask "Is there an expert I can call?". As a hacker you are the expert that others will call.
+
+You will learn to hack real code in active open-source projects and contribute your hacks back to the projects and their user communities. Most importantly you will develop the mindset of a hacker: "Nothing is impossible".
+
+Don't be fooled into thinking becoming a hacker is easy; far from it. Hackers are pursing excellence and perfection.
+
+You will often need determination and resolve to drive yourself forward when the going gets tough. One of the rewards but also the pains of hacking is that you'll always be learning something new. Learning, as you have no-doubt already experienced, can be extremely difficult, frustrating and depressing especially if you can't make sense of things.
+
+You will need to be prepared to spend long hours of intense focus to master multiple disciplines at the same time. You will need to learn when to stop, when to take a break, when to leave it for a few days and go do something completely different.
+
+At times you will feel like giving up - we all do. At times you'll want to throw the computer out the window, swear at the incompetent idiot that came up with the convoluted un-commented code you've spent the last day trying to figure out. You should warn your house-mates that they might hear raised voices and things being thrown and they should just turn the music up!
+
+But later, when you've figured it out and your brain is churning out new code faster than your fingers can type, you'll experience the exhilaration and joy at having beaten the thing into submission and made it do your bidding. If the hack also solves issues that other users of the project have then you may get to bask in the glory of appreciation - for maybe five minutes until the requests start coming in for you to "just add feature X" or "fix bug Y".
+
+So let's start by correcting some media myths about what a Hacker is.
+
 ## The Hacker Ethic (what is a Hacker) ?
 
 In 1997 **Eric S. Raymond** published an essay on software engineering methods entitled "**The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary**" which became an influential observation and critique of software development. Later he included a Frequently Asked Questions answered (FAQ) titled "**How to Become a Hacker**"[^1] that describes the attitude, skills and cultural of hacking:
