@@ -14,7 +14,7 @@ Please read [LICENSE{.html,md}](LICENSE.html)
 
 ## Introduction
 
-This is a course I am developing for under-graduate students at [Nottingham Trent university School of Science and Technology](http://www.ntu.ac.uk/sat/index.html) in England.
+This is a course I am developing for under-graduate students in England.
 
  * [101 - Basics of Hacking](101/index.html)
  * [201 - Applied Hacking](201/index.html)
