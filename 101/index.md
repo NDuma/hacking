@@ -14,7 +14,7 @@ You will learn to hack real code in active open-source projects and contribute y
 
 Don't be fooled into thinking becoming a hacker is easy; far from it. Hackers are pursing excellence and perfection.
 
-You will often need determination and resolve to drive yourself forward when the going gets tough. One of the rewards but also the pains of hacking is that you'll always be learning something new. Learning, as you have no-doubt already experienced, can be extremely difficult, frustrating and depressing especially if you can't make sense of things.
+You will often need determination and resolve to drive yourself forward when the going gets tough. One of the rewards but also the pains of hacking is that you'll always be learning something new. Learning, as you have no-doubt already experienced, can be extremely difficult, frustrating and depressing especially if you can't make sense of things immediately.
 
 You will need to be prepared to spend long hours of intense focus to master multiple disciplines at the same time. You will need to learn when to stop, when to take a break, when to leave it for a few days and go do something completely different.
 
