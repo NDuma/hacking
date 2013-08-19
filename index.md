@@ -8,6 +8,8 @@ Please read [LICENSE{.html,md}](LICENSE.html)
     Program code and scripts licensed under the GNU General Public License version 3.0
     http://www.gnu.org/licenses/gpl-3.0.html
 
+The canonical home of this course material is [https://iam.tj/projects/hacking/](https://iam.tj/projects/hacking/)
+
 <hr>
 
 [TOC]
