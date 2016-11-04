@@ -18,7 +18,7 @@ The canonical home of this course material is [https://iam.tj/projects/hacking/]
 
 This is a course I am developing for under-graduate students in England.
 
- * [101 - Basics of Hacking](101/index.html)
+ * [101 - Basics of Hacking](https://iam.tj/projects/hacking/101/index.html)
  * [201 - Applied Hacking](201/index.html)
  * [301 - Becoming a Wizzard](301/index.html) [^1]
  * [Assignments](assignments/index.html)
